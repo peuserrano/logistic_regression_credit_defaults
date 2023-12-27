@@ -1,6 +1,6 @@
 # Project Objective
 
-This project aims to utilize econometric techniques, specifically logistic regression, to build a predictive model for credit default. Leveraging a dataset sourced from Kaggle, the goal is to enhance the assessment of credit risk by accurately identifying clients with a higher probability of default.
+This project aims to apply econometric techniques, specifically logistic regression, to build a predictive model which contribute for credit default prediction. Leveraging a dataset sourced from Kaggle, which displays data regarding hypothetical transactions in a fictional bank, the goal is to enhance the assessment of credit risk by accurately identifying clients with a higher probability of default.
 
 ## Foundation
 
